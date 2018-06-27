@@ -10,7 +10,7 @@
            "make":"",
            "trade":"",
            "solve":"",
-           "communication":""
+           "communication":"",
            "stetic":""
         },
 "game":{
@@ -46,17 +46,23 @@
           "opera":""
        },
 "cook":{
-         "dinner":""
+         "dinner":"",
          "launch":"" 
          },
 "music":{
-          "classic":""
-          "pop":""
+          "classic":"",
+          "pop":"",
           "rock":""
           },
 "culture":{
+          "indian":"",
+          "roman":"",
+          "barroco":"",
+          "greek":""
 },
-"novel":{},
+"novel":{
+         "writter":""
+ },
 "story":{},
 "religion":{},
 "philosofy":{},
