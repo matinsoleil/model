@@ -1,29 +1,59 @@
 {
 "travel":{
-          "place":"",
-          "vehicule":""
+          "event":"",
+          "rest":"",
+          "bussines":"",
+          "adventure":""
          },
 "work":{
-           "factory":"",
-           "workshop":"",
-           "office":"",
-           "store":"",
-           "mall":""
+           "sale":""
+           "make":""
+           "trade":""
+           "solve":""
         },
 "game":{
-          "machine":"",
           "azar":"",
-          "multiplayer"
+          "sport":""
           },
-"person":{},
-"software":{},
-"machine":{},
-"process":{},
-"art":{},
-"cook":{},
-"music":{},
-"culture":{},
-"art":{},
+"person":{
+           "family":""
+          },
+"software":{
+            "app":"",
+            "game":""
+          
+           },
+"machine":{
+          "transport":"",
+          "maker":"",
+          "soft":""
+               
+          },
+"process":{
+           "geological":""
+           "work":"",
+           "social":""
+           "bilogic":""
+          },
+"art":{
+          "music":"",
+          "paint":"",
+          "architect":"",
+          "sculpture":"",
+          "dance":"",
+          "opera":""
+       },
+"cook":{
+         "dinner":""
+         "launch":"" 
+         },
+"music":{
+          "classic":""
+          "pop":""
+          "rock":""
+          },
+"culture":{
+},
 "novel":{},
 "story":{},
 "religion":{},
