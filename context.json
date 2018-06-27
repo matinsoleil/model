@@ -6,10 +6,12 @@
           "adventure":""
          },
 "work":{
-           "sale":""
-           "make":""
-           "trade":""
-           "solve":""
+           "sale":"",
+           "make":"",
+           "trade":"",
+           "solve":"",
+           "communication":""
+           "stetic":""
         },
 "game":{
           "azar":"",
