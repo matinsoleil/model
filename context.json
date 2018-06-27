@@ -1,7 +1,18 @@
 {
-"travel":{},
-"work":{},
-"game":{},
+"travel":{
+          "place":""
+          "vehicule":""
+         },
+"work":{
+           "factory":"",
+           "workshop":"",
+           "office":"",
+           "store":"",
+           "mall":""
+        },
+"game":{
+          "azar":""
+          },
 "person":{},
 "software":{},
 "machine":{},
@@ -9,8 +20,11 @@
 "art":{},
 "cook":{},
 "music":{},
-"culture":{}
-
-
-
+"culture":{},
+"art":{},
+"novel":{},
+"story":{},
+"religion":{},
+"philosofy":{},
+"object":{}
 }
