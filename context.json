@@ -1,6 +1,6 @@
 {
 "travel":{
-          "place":""
+          "place":"",
           "vehicule":""
          },
 "work":{
@@ -11,7 +11,9 @@
            "mall":""
         },
 "game":{
-          "azar":""
+          "machine":"",
+          "azar":"",
+          "multiplayer"
           },
 "person":{},
 "software":{},
