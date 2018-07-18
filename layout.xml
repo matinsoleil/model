@@ -1,0 +1,11 @@
+<view name="start" set="service.id.action.start" attribute="id" limit="50"  lt="5"   as="begin"  >
+      <section name="header" set="store.id.list.option"   limit="5"  as="option"  >
+          
+      </section>
+      <section name="content"  set="store.id.form.search"  as="search" >
+           
+      </section>
+      <section name="footer" set="store.id.list.howto" attribute="id"   as="howto" >
+           
+      </section>
+</view>
