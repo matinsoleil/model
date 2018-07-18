@@ -1,11 +1,16 @@
 <view name="start" set="service.id.action.start" attribute="id" limit="50"  lt="5"   as="begin"  >
-      <section name="header" set="store.id.list.option"   limit="5"  as="option"  >
-          
+      <section name="header" set="store.id.list.option"   limit="5"  as="menu"  >
+            <image name="start" set="store.id.icon.start" as="start"  >
+      </section>
+      <section  name="header" set="store.id.form.login"   as="login" >        
       </section>
       <section name="content"  set="store.id.form.search"  as="search" >
-           
+              
       </section>
+      <section name="content"  set="store.id.list.card" limit="10"  as="card" >    
+      </section>
+      <section name="content"  set="store.id.list.section" limit="10"  as="section" >                 
+      </section>      
       <section name="footer" set="store.id.list.howto" attribute="id"   as="howto" >
-           
       </section>
 </view>
