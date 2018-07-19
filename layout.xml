@@ -1,5 +1,23 @@
-<view name="start" in:default="" set:star="service.id.action.start" model:start="view.model.default" out:start="main" put:start="main" >
-      <section  name="header" in:default="main" set:option="store.id.list.option" model:option="section.model.default" out:option="menu" >
-             <box in:default="menu" each:default="menu" as:default="item" model:default="box.model.item" put:default="item" >
+<view name:default="start" in:default="" set:star="service.id.action.start" model:start="view.model.default" out:start="main" value:start="main" >
+      <section  name:default="header" in:default="main" set:option="store.id.list.option" model:option="section.model.default" out:option="menu" >
+             <menu in:default="menu" each:default="menu" as:default="way" key:default="item" out:default="way" >
+              <item in:default="way" value:default="way.name"> 
+            </menu>      
       </section>
+      <section name:default="content" in:default="main" >
+             <form name="search"  each:request="store.id.form.search" as:request="quest" key:request="input" out:request="quest" >
+                  <input in:default="quest" value:default="quest.name" > 
+             </form>
+             <pocket>
+                   <card>
+             </pocket>     
+      </section>
+      <section name:default="footer" set:feet="store.id.list.howto" model:feet="view.model.default" out:feet="way" put:feet="way" >
+            <group name:default="a" >
+                 <item></item>
+            </group>
+            <group name:default="b" >
+                 <item></item>
+            </group>      
+      <section>      
 </view>
