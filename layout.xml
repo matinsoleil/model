@@ -1,5 +1,5 @@
-<view name="start" in:default="" set:star="service.id.action.start" model:start="view.model.default" out:start="main" >
+<view name="start" in:default="" set:star="service.id.action.start" model:start="view.model.default" out:start="main" put:start="main" >
       <section  name="header" in:default="main" set:option="store.id.list.option" model:option="section.model.default" out:option="menu" >
-             <box in:default="menu" each:default="menu" as:default="item" model:default="box.model.item" >
+             <box in:default="menu" each:default="menu" as:default="item" model:default="box.model.item" put:default="item" >
       </section>
 </view>
