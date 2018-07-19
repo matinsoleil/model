@@ -61,7 +61,7 @@
          },
 "music":{
           "classic":"",
-          "jazz":""
+          "jazz":"",
           "pop":"",
           "rock":"",
           "indie":""
@@ -74,8 +74,10 @@
 },
 "novel":{
          "writter":"",
-         "character":"",
-         "scenario":"" 
+         "character":"", 
+         "scenario":"",
+         "period":"",
+         "style":"" 
  },
 "story":{
           "short":"",
@@ -88,21 +90,42 @@
             "budism":"",
             "jewish":"",
             "christianism":"",
-            "hinduism":""
+            "hinduism":"",
+            "atheism":"",
+            "celtic":"",
+            "zoroatrism":""
            },
 "philosofy":{
             "socrates":"",
             "pragmatic":"",
             "communism":"",
-            "science":"",
-            "atheism":"",
+            "scienciology":"",
             "romanticism":"",
             "socialism":"",
             "capitalism":""
             },
 "object":{ 
-             "big":"",
-             "great":"",
-             "small":""
+             "AsCluster":"", 
+             "AsPlanetary":"",
+             "AsStar":"",
+             "AsPlanet":""
+             "AsSatelit":""
+             "AsAsteroid":"",
+             "AsSky":"",
+             "AsMointain":"",
+             "AsBuild":"",
+             "AsRoom":"",
+             "AsBigAnimal":"",
+             "AsBigHandle":"",
+             "AsHuman":"",
+             "AsAnimal":"",
+             "AsPet":"",
+             "AsHandle":"",
+             "AsFinger":"",
+             "AsMiniHandle:"",
+             "AsMicroHandle":"",
+             "AsNanoHandle":"",
+             "AsIndirectHandle":"",
+             "AsEffectHandle":""
           }
 }
