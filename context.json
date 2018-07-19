@@ -32,9 +32,9 @@
                
           },
 "process":{
-           "geological":""
+           "geological":"",
            "work":"",
-           "social":""
+           "social":"",
            "bilogic":""
           },
 "art":{
@@ -47,12 +47,16 @@
        },
 "cook":{
          "dinner":"",
-         "launch":"" 
+         "launch":"",
+          "fast":"",
+          "mexican":"",
+          "italian":""
          },
 "music":{
           "classic":"",
           "pop":"",
-          "rock":""
+          "rock":"",
+          "indie":""
           },
 "culture":{
           "indian":"",
@@ -63,8 +67,25 @@
 "novel":{
          "writter":""
  },
-"story":{},
-"religion":{},
-"philosofy":{},
-"object":{}
+"story":{
+          "short":""
+          "long":"",
+          "contry":"",
+          "classical":"",
+          "comic":"" 
+       },
+"religion":{
+            "budism":"",
+            "jewish":"",
+            "christian":""
+           },
+"philosofy":{
+            "socrates":""
+            "pragmatic":""
+            },
+"object":{ 
+             "big":"",
+             "great":"",
+             "small":""
+          }
 }
