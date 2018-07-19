@@ -25,24 +25,31 @@
            "enterprise":"",
            "inc":"",
            "horde":"",
-           "clan":""
+           "clan":"",
+           "personal":""
+           "couple":""
           },
 "software":{
             "app":"",
-            "game":""
+            "game":"",
+            "api":""
           
            },
 "machine":{
           "transport":"",
           "maker":"",
-          "soft":""
+          "soft":"",
+          "destroller":""
                
           },
 "process":{
-           "geological":"",
+           "knowledge":"",
+           "empiric":"",
            "work":"",
+           "game":"",
            "social":"",
-           "bilogic":""
+           "bilogic":"",
+           "quemical":""
           },
 "art":{
           "music":"",
@@ -50,14 +57,19 @@
           "architect":"",
           "sculpture":"",
           "dance":"",
-          "opera":""
+          "literature":"",
+          "cine":"",
+          "visual":""
        },
 "cook":{
          "dinner":"",
          "launch":"",
           "fast":"",
           "mexican":"",
-          "italian":""
+          "italian":"",
+          "greek":"",
+          "frech":"",
+          "spanish":""
          },
 "music":{
           "classic":"",
@@ -70,7 +82,10 @@
           "indian":"",
           "roman":"",
           "barroco":"",
-          "greek":""
+          "greek":"",
+          "classical":""
+          "helenas":"",
+          "akad":""
 },
 "novel":{
          "writter":"",
@@ -97,6 +112,7 @@
             "zoroatrism":""
            },
 "philosofy":{
+            "occidental":"",
             "socrates":"",
             "pragmatic":"",
             "communism":"",
@@ -123,10 +139,19 @@
              "AsPet":"",
              "AsHandle":"",
              "AsFinger":"",
-             "AsMiniHandle:"",
+             "AsMiniHandle":"",
              "AsMicroHandle":"",
              "AsNanoHandle":"",
              "AsIndirectHandle":"",
              "AsEffectHandle":""
-          }
+          },
+  "place":{
+             "imaginary":"",
+             "abstract":"",
+             "open":"",
+             "close":"",
+             "cave":"",
+             "room":"",
+             "sea":""
+  }        
 }
