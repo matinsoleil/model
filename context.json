@@ -26,7 +26,7 @@
            "inc":"",
            "horde":"",
            "clan":"",
-           "personal":""
+           "personal":"",
            "couple":""
           },
 "software":{
@@ -62,14 +62,16 @@
           "visual":""
        },
 "cook":{
-         "dinner":"",
-         "launch":"",
+          "dinner":"",
+          "launch":"",
           "fast":"",
           "mexican":"",
           "italian":"",
           "greek":"",
           "frech":"",
-          "spanish":""
+          "spanish":"",
+          "food":"",
+          "mediterranean":""
          },
 "music":{
           "classic":"",
