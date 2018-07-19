@@ -15,10 +15,17 @@
         },
 "game":{
           "azar":"",
-          "sport":""
+          "sport":"",
+          "table":"",
+          "collaboration":""
           },
 "person":{
-           "family":""
+           "family":"",
+           "tribe":"",
+           "enterprise":"",
+           "inc":"",
+           "horde":"",
+           "clan":""
           },
 "software":{
             "app":"",
@@ -54,6 +61,7 @@
          },
 "music":{
           "classic":"",
+          "jazz":""
           "pop":"",
           "rock":"",
           "indie":""
@@ -65,10 +73,12 @@
           "greek":""
 },
 "novel":{
-         "writter":""
+         "writter":"",
+         "character":"",
+         "scenario":"" 
  },
 "story":{
-          "short":""
+          "short":"",
           "long":"",
           "contry":"",
           "classical":"",
@@ -77,11 +87,18 @@
 "religion":{
             "budism":"",
             "jewish":"",
-            "christian":""
+            "christianism":"",
+            "hinduism":""
            },
 "philosofy":{
-            "socrates":""
-            "pragmatic":""
+            "socrates":"",
+            "pragmatic":"",
+            "communism":"",
+            "science":"",
+            "atheism":"",
+            "romanticism":"",
+            "socialism":"",
+            "capitalism":""
             },
 "object":{ 
              "big":"",
