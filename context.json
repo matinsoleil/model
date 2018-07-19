@@ -81,11 +81,15 @@
           "indie":""
           },
 "culture":{
+          "sumerian":"",
           "indian":"",
           "roman":"",
-          "barroco":"",
-          "greek":"",
-          "classical":""
+          "vedas":"",
+          "baroque":"",
+          "neoclassical":"",
+          "classical":"",
+          "neolitic":"",
+          "paleolitic":"",
           "helenas":"",
           "akad":""
 },
@@ -124,6 +128,9 @@
             "capitalism":""
             },
 "object":{ 
+             "AsUniverse":"",
+             "AsCumulus":"",
+             "AsGalaxy":"",
              "AsCluster":"", 
              "AsPlanetary":"",
              "AsStar":"",
@@ -134,7 +141,9 @@
              "AsMointain":"",
              "AsBuild":"",
              "AsRoom":"",
+             "AsMachineHandle":"",
              "AsBigAnimal":"",
+             "AsToolHandle":"",
              "AsBigHandle":"",
              "AsHuman":"",
              "AsAnimal":"",
@@ -145,7 +154,8 @@
              "AsMicroHandle":"",
              "AsNanoHandle":"",
              "AsIndirectHandle":"",
-             "AsEffectHandle":""
+             "AsEffectHandle":"",
+             "AsUnHandle":""
           },
   "place":{
              "imaginary":"",
@@ -154,6 +164,7 @@
              "close":"",
              "cave":"",
              "room":"",
-             "sea":""
+             "sea":"",
+             "wood":""
   }        
 }
