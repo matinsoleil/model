@@ -18,5 +18,14 @@
  "meta":{
           "static":"",
           "dynamic":""
- }         
+ },
+"phenomenon":{
+           "static":"",
+           "dynamic":""
+},
+"result":{
+           "static":"",
+           "dynamic":""
+}          
+          
 }
