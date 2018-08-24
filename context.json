@@ -61,6 +61,12 @@
           "cine":"",
           "visual":""
        },
+"history":{
+          "postmodern":"",  
+          "classic":"",
+          "romanticism":"",
+          "modern":"" 
+},          
 "cook":{
           "dinner":"",
           "launch":"",
