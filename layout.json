@@ -4,7 +4,7 @@
        "attribute":"view",
        "value":"default",
        "label:en:us":"Start Service",
-       "label:es:mx":"Inicio"
+       "label:es:mx":"Inicio",
        "input":["internet"],
        "output":["register","start","login","pass","chat","instruction","article"],
        "type":"graph",
@@ -22,7 +22,7 @@
        "attribute":"block",
        "value":"default",
        "label:en:us":"Header",
-       "label:es:mx":"Cabecera" 
+       "label:es:mx":"Cabecera", 
        "input":[""],
        "output":["content"],
        "type":"graph",
