@@ -31,7 +31,7 @@
        "rwx":"700",
        "region":"mx.central.default",
        "task":["follow"],
-       "states:["enabled","disabled","mantenance"],
+       "states":["enabled","disabled","mantenance"],
        "state":"enabled",
        "in":["register.block.default","login.block.default","menu.block.default","account.block.default","logout.block.default","menu.block.user"]
       },
@@ -46,11 +46,12 @@
        "rwx":"700",
        "region":"mx.central.default"
        "task":["checkClient","registerClient"],
+       "states":["true","false"],
        "state":"true",
        "in":[""]
   },
   "98":{
-       "entity":"register",
+       "entity":"login",
        "attribute":"view",
        "value":"default",
        "tag":"Register",
@@ -60,7 +61,8 @@
        "group":"system",
        "rwx":"700",
        "region":"mx.central.default",
-       "task":"render",
+       "task":["checkClient","passClient"],
+       "states":["true","false"],
        "state":"true",
        "in":["header.block.default","content.block.register","footer.block.default"]
       },
