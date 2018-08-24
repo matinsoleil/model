@@ -29,7 +29,7 @@
        "category":"",
        "group":"service.state.user",
        "rwx":"700",
-       "region":"mx.central.default"
+       "region":"mx.central.default",
        "task":["follow"],
        "states:["enabled","disabled","mantenance"],
        "state":"enabled",
