@@ -64,5 +64,19 @@
   "port":"",
   "machine":"",
   "elevator":"",
-  "saloon":""
+  "saloon":"",
+  "mine",
+  "hospital",
+  "zoo",
+  "desktop",
+  "door",
+  "window",
+  "sit",
+  "sky",
+  "valley",
+  "bay",
+  "undersea",
+  "island",
+  "church",
+  "farry"
 }
