@@ -11,9 +11,9 @@
        "category":"statndard",
        "group":"system.state.user",
        "rwx":"700",
-       "region":"mx.central.default"
+       "region":"mx.central.default",
        "task":["play"],
-       "states":["enabled","disabled","update",""]
+       "states":["enabled","disabled","update",""],
        "state":"true",
        "in":["header.block.default","content.block.default","footer.block.default"]
       },
@@ -32,7 +32,7 @@
        "region":"mx.central.default"
        "task":["follow"],
        "states:["enabled","disabled","mantenance"],
-       "state":"true",
+       "state":"enabled",
        "in":["register.block.default","login.block.default","menu.block.default","account.block.default","logout.block.default","menu.block.user"]
       },
   "2":{
@@ -59,7 +59,7 @@
        "type":"graph",
        "group":"system",
        "rwx":"700",
-       "region":"mx.central.default"
+       "region":"mx.central.default",
        "task":"render",
        "state":"true",
        "in":["header.block.default","content.block.register","footer.block.default"]
@@ -73,9 +73,9 @@
        "label:es:mx":"Nombre",
        "type":"string",
        "group":"group.default",
-       "category":"category.default"
+       "category":"category.default",
        "rwx":"666",
-       "region":"mx.central.default"
+       "region":"mx.central.default",
        "states":["write","read","secret"],
        "state":"write",
        "in":["name.variable.standard"]
