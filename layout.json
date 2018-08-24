@@ -23,8 +23,8 @@
        "value":"default",
        "label:en:us":"Header",
        "label:es:mx":"Cabecera", 
-       "input":[""],
-       "output":["content"],
+       "input":["content","footer"],
+       "output":["content","footer"],
        "type":"graph",
        "category":"",
        "group":"service.state.user",
@@ -44,7 +44,7 @@
        "category":"", 
        "group":"system",
        "rwx":"700",
-       "region":"mx.central.default"
+       "region":"mx.central.default",
        "task":["checkClient","registerClient"],
        "states":["true","false"],
        "state":"true",
@@ -80,7 +80,7 @@
        "region":"mx.central.default",
        "states":["write","read","secret"],
        "state":"write",
-       "in":["name.variable.standard"]
+       "in":[""]
   }
 }
 
