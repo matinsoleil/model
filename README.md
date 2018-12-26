@@ -15,3 +15,4 @@ https://www.sitepoint.com/performant-reading-big-files-php/
 
 http://www.geonames.org/search.html?q=chimilli&country=MX
 
+http://conjugador.reverso.net/conjugacion-frances-verbo-avoir.html
