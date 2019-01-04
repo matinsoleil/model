@@ -1,6 +1,7 @@
 # model
 model of machines 
 
+meAmas1000x1000
 
 fuentes de dialogos:
 
