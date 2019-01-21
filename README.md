@@ -27,3 +27,9 @@ https://www.inegi.org.mx/app/ageeml/
 
 
 https://github.com/sass/node-sass/issues/2562
+
+nextcloud
+
+https://github.com/cghdev/cloud-dl
+
+https://github.com/julianthome/taggy/blob/master/taggy_client.sh
