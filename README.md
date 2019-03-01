@@ -69,3 +69,5 @@ https://sentisis.com/recursos/detectar-leads/
 https://www.mailgun.com/
 
 https://www.clicknbox.com/
+
+https://github.com/zalandoresearch/fashion-mnist
