@@ -85,3 +85,6 @@ axios.get(`${'https://cors-anywhere.herokuapp.com/'}https://a.4cdn.org/a/threads
 .then(res => {
   console.log(res)
 })
+
+
+https://github.com/axios/axios/issues/853
