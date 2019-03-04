@@ -73,3 +73,15 @@ https://www.clicknbox.com/
 https://github.com/zalandoresearch/fashion-mnist
 
 https://www.fullcontact.com/pricing-plans/
+
+
+if you want to fetch data from a third party api or url that has a issue with its CORS header(missing or contains multiple values) I think the only solution for this is use this link
+"https://cors-anywhere.herokuapp.com/"
+I use the link for small projects but for big projects you may want to create your own api to handle the calls and creating the api you can use the open source project https://github.com/Rob--W/cors-anywhere/ .
+
+This one will work:
+
+axios.get(`${'https://cors-anywhere.herokuapp.com/'}https://a.4cdn.org/a/threads.json`)
+.then(res => {
+  console.log(res)
+})
