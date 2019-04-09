@@ -100,3 +100,6 @@ https://www.mailgun.com/
 
 
 https://netbasal.com/angular-2-improve-performance-with-trackby-cc147b5104e5
+
+
+--unsafe-perm=true --allow-root
