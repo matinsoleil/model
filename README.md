@@ -103,3 +103,14 @@ https://netbasal.com/angular-2-improve-performance-with-trackby-cc147b5104e5
 
 
 --unsafe-perm=true --allow-root
+
+
+https://www.uplabs.com/
+
+https://flutter.dev
+
+https://www.nativescript.org/
+
+https://facebook.github.io/react-native/docs/getting-started
+
+https://zeplin.io/
