@@ -125,3 +125,7 @@ clean code
 
 https://medium.com/@psak.works/redux-saga-react-native-2b84463d7afe
 
+pragmatic programmer
+
+ttps://www.hyperxgaming.com
+
