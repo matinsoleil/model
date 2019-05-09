@@ -117,3 +117,11 @@ https://zeplin.io/
 
 
 https://themeforest.net
+
+
+https://www.nceclusters.no/globalassets/filer/nce/diverse/the-pragmatic-programmer.pdf
+
+clean code
+
+https://medium.com/@psak.works/redux-saga-react-native-2b84463d7afe
+
