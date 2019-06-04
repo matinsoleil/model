@@ -129,3 +129,9 @@ pragmatic programmer
 
 ttps://www.hyperxgaming.com
 
+elastic
+
+curl -X DELETE 'http://localhost:9200/_all'
+
+
+
