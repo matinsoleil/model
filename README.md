@@ -133,5 +133,5 @@ elastic
 
 curl -X DELETE 'http://localhost:9200/_all'
 
-
+https://help.heroku.com/PAT3YEDU/does-heroku-support-net-applications
 
