@@ -135,3 +135,14 @@ curl -X DELETE 'http://localhost:9200/_all'
 
 https://help.heroku.com/PAT3YEDU/does-heroku-support-net-applications
 
+https://ghostinspector.com/
+
+https://swagger.io/docs/specification/2-0/basic-structure/
+
+https://docs.spring.io/spring-boot/docs/current-SNAPSHOT/reference/html/getting-started.html#getting-started
+
+https://www.tutorialspoint.com/spring_boot/spring_boot_introduction.htm
+
+
+
+
