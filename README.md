@@ -149,3 +149,7 @@ https://start.spring.io/
 https://spring.io/tools
 
 https://www.mkyong.com/java/quartz-2-scheduler-tutorial/
+
+https://www.mkyong.com/tutorials/java-8-tutorials/
+
+https://www.javatpoint.com/spring-security-tutorial
