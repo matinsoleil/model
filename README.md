@@ -144,5 +144,8 @@ https://docs.spring.io/spring-boot/docs/current-SNAPSHOT/reference/html/getting-
 https://www.tutorialspoint.com/spring_boot/spring_boot_introduction.htm
 
 
+https://start.spring.io/
 
+https://spring.io/tools
 
+https://www.mkyong.com/java/quartz-2-scheduler-tutorial/
