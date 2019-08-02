@@ -20,7 +20,7 @@ var materials = ['Hydrogen','Helium','Lithium','Beryllium'];
 
 console.log(materials.map(material => material.length));
 
-
+var obj = JSON.parse(fs.readFileSync('./src/url.json', 'utf8'));
 
 let miPrimeraPromise = new Promise((resolve, reject) => {
   // Llamamos a resolve(...) cuando lo que estabamos haciendo finaliza con éxito, y reject(...) cuando falla.
