@@ -1,0 +1,129 @@
+{
+    "": [
+        {
+            "entity":"block",
+            "id":"store",
+            "name": "header",
+            "text": "header",
+            "type":"object",
+            "value": [{"entity":"text","id":"store","name":"header","type":"simple","value":"start"}],
+            "state":true,
+            "rwx":"777",
+            "action": ["block"],
+            "input": [{"entity":"user","id":"default","name":"loged","type":"boolean","value":false}],
+            "output": [
+                {
+                    "entity":"block",
+                    "id":"store",
+                    "name": "joint",
+                    "text": "joint",
+                    "type":"object",
+                    "state":true,
+                    "rwx":"777",
+                    "value": [{"entity":"user","id":"default","name":"joint","type":"boolean","value":false}],
+                    "action": ["user"],
+                    "input": [
+                              {"entity":"user","id":"default","name":"name","type":"simple","value":"guest"},
+                              {"entity":"user","id":"default","name":"password","type":"simple","value":""},
+                              {"entity":"user","id":"default","name":"mobile","type":"simple","value":""},
+                              {"entity":"user","id":"default","name":"terms","type":"boolean","value":false}
+                            ],
+                    "output": [{"entity":"user","id":"default","name":"joint","type":"boolean","value":true}]
+                },
+                {
+                    "entity":"block",
+                    "id":"store",
+                    "name": "login",
+                    "text": "Login to Site",
+                    "type":"object",
+                    "value": [{"entity":"user","id":"default","name":"login","type":"boolean","value":false}],
+                    "state":true,
+                    "rwx":"777",
+                    "action": ["user"],
+                    "input": [
+                              {"entity":"user","id":"default","name":"mobile","type":"simple","value":""},
+                              {"entity":"user","id":"default","name":"password","type":"simple","value":""}
+                    ],
+                    "output": [
+                              {"entity":"text","id":"store","name":"login","type":"array","value":["not registred"]},
+                              {"entity":"user","id":"default","name":"name","type":"simple","value":"default"}
+                    ]
+                },
+                {
+                    "entity":"block",
+                    "name": "sell",
+                    "text": "sell",
+                    "value": "",
+                    "state":true,
+                    "rwx":"777",
+                    "action": ["sell"],
+                    "input": [],
+                    "output": []
+                }
+            ]
+        },
+        {
+            "entity":"block",
+            "name":"content",
+            "text":"content",
+            "value":"",
+            "state":true,
+            "rwx":"777",
+            "action":["block"],
+            "input":[{"name":"loged","value":false}],
+            "output":[{
+                     "entity":"slide",
+                     "id":"store",
+                     "name":"slide",
+                     "text":"Slide",
+                     "value":"",
+                     "state":true,
+                     "action":"",
+                     "rwx":"777",
+                     "input":[],
+                     "output":[]
+            },
+            {
+                "entity":"message",
+                "name":"main",
+                "text":"Bind Seller",
+                "type":"array",
+                "value":["Welcome to next generation of sales","enjoit"],
+                "state":true,
+                "action":"message",
+                "rwx":"777"
+            }
+        ]
+        },
+        {
+            "entity":"block",
+            "id":"store",
+            "name":"footer",
+            "text":"Footer",
+            "value":[{"name":"loged","value":false}],
+            "state":true,
+            "rwx":"777",
+            "action":[],
+            "input":[{"entity":"user","name":"login","value":false}],
+            "output":[
+                {
+                    "entity":"configuration",
+                    "id":"store",
+                    "name":"Language",
+                    "text":"Language",
+                    "value":[
+                             {"entity":"language","id":"store","name":"español","value":"es"}
+                            ],
+                    "state":true,
+                    "action":"configuration",
+                    "rwx":"777",
+                    "input":[ {"entity":"language","id":"store","name":"español","value":"es"}],
+                    "output":[
+                        {"entity":"language","id":"store","name":"español","value":"es"},
+                        {"entity":"language","id":"store","name":"english","value":"en"}
+                    ]
+                }
+            ]
+        }
+    ]
+}
